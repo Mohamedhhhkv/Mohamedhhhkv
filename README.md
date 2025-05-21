@@ -1,4 +1,4 @@
-# xsmtp https://xsmtp.co 
+# xsmtp https://xsmtp.cc
 
 A simple SMTP mail server, a tiny but complete realization of smtp protocol.
 
@@ -16,7 +16,7 @@ A simple SMTP mail server, a tiny but complete realization of smtp protocol.
 git clone https://github.com/ibillxia/xsmtp.git
 cd xsmtp
 ```
-
+xsmtp https://xsmtp.cc
 2) Edit Config
 Set the user data storage directory:
 ```
@@ -35,7 +35,7 @@ vim userinfo
 #then write and quit
 touch userstat
 ```
-
+xsmtp https://xsmtp.cc
 4) Send Mail Example
 Run the executable file in one terminal:  
 ```
@@ -61,7 +61,7 @@ C: QUIT
 S: 221 Bye
 ```
 Well done!
-
+xsmtp https://xsmtp.cc
 ## About SMTP protocal  
 
 This program is a simple mail dispatcher via smtp protocol. It runs only on Linux/Unix plantforms.
